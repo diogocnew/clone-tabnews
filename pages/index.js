@@ -1,6 +1,5 @@
 function Home() {
-    return <h1>Alteração de mensagem para Teste a ser realizado com a finalidade de sentir
-        a alteração feita diretamente no git.
+    return <h1>Realizando uma alteração para ver o retorno de versionamento no Vercel
     </h1>
 }
 
